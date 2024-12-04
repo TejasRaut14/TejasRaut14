@@ -6,6 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.hackernoon.com/images/hzjh3zjk.gif"/></p>
 
 - 📝 I regularly write articles on [Data Analytics](Data Analytics)
+- 💬 Ask me about **SQL, Data Visualization, Python, Data Analysis, Advanced Excel, Power BI , ETL , Tableau, Statistical Analysis Business Insights Data Analysis Expressions (DAX)**
 
 - 📫 How to reach me **raut1673@gmail.com**
 
