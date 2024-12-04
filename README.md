@@ -1,8 +1,9 @@
 ![logo](https://github.com/TejasRaut14/TejasRaut14/blob/main/data-analyst.jpg)
+
 <h1 align="center">Hi 👋, I'm Tejas Raut</h1>
 <h3 align="center">Turning raw data into actionable insights | SQL | Python | Power BI | EDA | ETL</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.hackernoon.com/images/hzjh3zjk.gif"
+<img align="right" alt="coding" width="400" src="https://cdn.hackernoon.com/images/hzjh3zjk.gif"/></p>
 
 - 📝 I regularly write articles on [Data Analytics](Data Analytics)
 
