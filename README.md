@@ -1,4 +1,4 @@
-![logo](https://github.com/TejasRaut14/TejasRaut14/blob/main/data-analyst.jpg)
+![logo](https://github.com/TejasRaut14/TejasRaut14/blob/main/analytics-banner_1.png)
 
 <h1 align="center">Hi 👋, I'm Tejas Raut</h1>
 <h3 align="center">Turning raw data into actionable insights | SQL | Python | Power BI | EDA | ETL</h3>
